@@ -1,0 +1,16 @@
+“Business & Society“ OR “Strategic Organization“ OR “Critical Perspectives on International Business“ OR “Organization & Environment“ OR “Journal of Environmental Policy and Management“ OR “Journal of Management Studies“ OR “Journal of Business Ethics“ OR “Organization Studies“ OR “Creativity and Innovation Management“ OR 
+“Rutgers Business Review“ OR “Sustainability“ OR “Academy of Management Journal“ OR “M@n@gement“ OR “Business Ethics Quarterly“ OR “International Journal of Sociology and Social Policy“ OR “Business Communication Quarterly“ OR “Academy of Management Review“ OR “European Management Journal“ OR “International Journal of Nonprofit and Voluntary Sector Marketing“ OR “Journal of Cleaner Production“ OR “Business Strategy and the Environment“ OR “Journal of Industrial Ecology“ OR “Academy of Management Discoveries“
+
+
+
+(TITLE-ABS-KEY(biodiversity) AND EXACTSRCTITLE(“Business & Society“ OR “Strategic Organization“ OR “Critical Perspectives on International Business“ OR “Organization & Environment“ OR “Journal of Environmental Policy and Management“ OR “Journal of Management Studies“ OR “Journal of Business Ethics“ OR “Organization Studies“ OR “Creativity and Innovation Management“ OR 
+“Rutgers Business Review“ OR “Sustainability“ OR “Academy of Management Journal“ OR “M@n@gement“ OR “Business Ethics Quarterly“ OR “International Journal of Sociology and Social Policy“ OR “Business Communication Quarterly“ OR “Academy of Management Review“ OR “European Management Journal“ OR “International Journal of Nonprofit and Voluntary Sector Marketing“ OR “Journal of Cleaner Production“ OR “Business Strategy and the Environment“ OR “Journal of Industrial Ecology“ OR “Academy of Management Discoveries“))
+
+
+
+Results of the previous query limited to the journals in the set of journals:
+
+( TITLE-ABS-KEY ( biodiversity ) AND EXACTSRCTITLE ( "Business & Society" OR "Strategic Organization" OR "Critical Perspectives on International Business" OR "Organization & Environment" OR "Journal of Environmental Policy and Management" OR "Journal of Management Studies" OR "Journal of Business Ethics" OR "Organization Studies" OR "Creativity and Innovation Management" OR "Rutgers Business Review" OR "Sustainability" OR "Academy of Management Journal" OR "M@n@gement" OR "Business Ethics Quarterly" OR "International Journal of Sociology and Social Policy" OR "Business Communication Quarterly" OR "Academy of Management Review" OR "European Management Journal" OR "International Journal of Nonprofit and Voluntary Sector Marketing" OR "Journal of Cleaner Production" OR "Business Strategy and the Environment" OR "Journal of Industrial Ecology" OR "Academy of Management Discoveries" ) ) AND ( LIMIT-TO ( EXACTSRCTITLE , "Business Strategy And The Environment" ) OR LIMIT-TO ( EXACTSRCTITLE , "Journal Of Business Ethics" ) OR LIMIT-TO ( EXACTSRCTITLE , "Journal Of Cleaner Production" ) OR LIMIT-TO ( EXACTSRCTITLE , "Journal Of Industrial Ecology" ) OR LIMIT-TO ( EXACTSRCTITLE , "Journal Of Management Studies" ) OR LIMIT-TO ( EXACTSRCTITLE , "Sustainability" ) )
+
+
+80% of returns are from Journal of Cleaner Production (about 311 out of 480) and Sustainability.
