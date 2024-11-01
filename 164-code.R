@@ -10,3 +10,4 @@
 library(bibliometrix)
 
 # Import data from Scopus search (https://www.bibliometrix.org/vignettes/Data-Importing-and-Converting.html)
+file <- 
