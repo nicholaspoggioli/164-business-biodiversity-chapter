@@ -10,5 +10,5 @@
 library(bibliometrix)
 
 # Import data from Scopus search (https://www.bibliometrix.org/vignettes/Data-Importing-and-Converting.html)
-file <- "https://github.com/nicholaspoggioli/164-business-biodiversity-chapter/blob/main/20241101-scopus-export-all.csv"
+file <- "https://github.com/nicholaspoggioli/164-business-biodiversity-chapter/blob/main/20241101-scopus-export-all-clean.csv"
 M <- convert2df(file, dbsource = "scopus", format = "csv")
